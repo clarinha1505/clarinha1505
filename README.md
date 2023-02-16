@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋 me chamo Maria Clara
 
 <!--
-**clarinha1505/clarinha1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**clarinha1505/clarinha1505** é um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas ideias para você começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou trabalhando em, to estudando
+- 🌱 Atualmente estou aprendendo, linguagem C
+- 👯 Estou procurando colaborar em tudo ao meu alcance 
+- 🤔 Estou procurando ajuda com nada por enquanto, mas já já vou códigos
+- 💬 Pergunte-me sobre o que quiser
+- 📫 Como chegar até mim: te vira
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: amo dançar 
 -->
